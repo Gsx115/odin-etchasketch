@@ -7,6 +7,10 @@
     align-content: center;
 }
 
-.item:hover {
+.item {
+    background-color: #ccc;
+}
+
+.hover {
     background-color: #000;
 }

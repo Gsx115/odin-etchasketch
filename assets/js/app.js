@@ -8,4 +8,8 @@ function genGrid(){
     }
 }
 
+grid.addEventListener('mouseover',(e)=>e.target.classList.add('hover'));
+
+    
+
 genGrid();
